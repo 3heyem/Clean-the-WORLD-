@@ -1,8 +1,6 @@
 # Clean the WORLD!
 **(hybrid/pro only)**
 
-simple inf cash, auto buy & auto rebirth script.
-
 ## Features
 * infinite cash (1000 Trillion)
 * fully autobuys the skill tree
